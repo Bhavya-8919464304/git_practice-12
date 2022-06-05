@@ -1,0 +1,3 @@
+Poi is an ERP based application . this project is related to mapping .this project helps in navigating the customers to the busienss. in this project 
+our work is write the test cases and test scenarios after that if any mistakes are there then we will correct it . My work is as trainee test executive
+in this we get some tickets if any mistakes are there we reprt to the developers .
